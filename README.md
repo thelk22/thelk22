@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @thelk22, or Luke for anyone who knows me! 
-- :books: I have a BSc in Maths and an MSc in Data Science. Now I'm making a career out of solving problems.
+- 👋 Hi, I’m @thelk22, or Luke for anyone who knows me!
 - :computer: I'm a huge enthusiast for software, cloud and data. 
+- :books: I have a BSc in Maths and an MSc in Data Science.
+- 💼 Now I'm building a career solving problems.
 - :soccer: :european_castle: 🌱 :bike: :sailboat: :rocket: I've got a lot of interests! Some clues...
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/luke-kirwan/), or by email: luke.kirwan22@gmail.com, luke.kirwan@bath.edu
 
