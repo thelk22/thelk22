@@ -3,7 +3,8 @@
 - :books: I have a BSc in Maths and an MSc in Data Science.
 - 💼 Now I'm building a career solving problems.
 - :soccer: :european_castle: 🌱 :bike: :sailboat: :rocket: I've got a lot of interests! Some clues...
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/luke-kirwan/), or by email: luke.kirwan22@gmail.com, luke.kirwan@bath.edu
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/luke-kirwan/) or by email at [luke.kirwan22@gmail.com](mailto:luke.kirwan22@gmail.com)
+
 
 <!---
 thelk22/thelk22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
